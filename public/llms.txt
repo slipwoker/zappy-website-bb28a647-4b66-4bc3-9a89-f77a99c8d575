@@ -80,7 +80,19 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 2**
+
+### חולצות (Copy)
+https://example.com/product/chvltsvt-copy-8qmtc6
+- Price: 40.00 ILS (sale, was 50.00 ILS)
+- Availability: In stock
+- Image: https://example.com/assets/image-product-image-1784838989076-hh42ob.webp
+
+### חולצות
+https://example.com/product/chvltsvt-hxah6f
+- Price: 40.00 ILS (sale, was 50.00 ILS)
+- Availability: In stock
+- Image: https://example.com/assets/image-product-image-1784838989076-hh42ob.webp
 
 ---
 

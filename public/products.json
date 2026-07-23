@@ -1,8 +1,53 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-23T20:33:24.166Z",
+  "generated_at": "2026-07-23T20:38:39.230Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 2,
+  "products": [
+    {
+      "id": "4e510826-8a2b-4d4b-8ba1-a982dafef12f",
+      "slug": "chvltsvt-copy-8qmtc6",
+      "name": "חולצות (Copy)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 50,
+      "sale_price": 40,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1784838989076-hh42ob.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltsvt-copy-8qmtc6",
+      "categories": [],
+      "updated_at": "2026-07-23T20:37:57.957Z"
+    },
+    {
+      "id": "076ce89c-08b1-47b1-9aea-cb394092abc2",
+      "slug": "chvltsvt-hxah6f",
+      "name": "חולצות",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 50,
+      "sale_price": 40,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1784838989076-hh42ob.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltsvt-hxah6f",
+      "categories": [],
+      "updated_at": "2026-07-23T20:37:24.887Z"
+    }
+  ]
 }
