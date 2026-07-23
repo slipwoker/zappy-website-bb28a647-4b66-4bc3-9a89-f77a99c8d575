@@ -1,0 +1,110 @@
+# המשוגע הגיע — Generative Engine Optimization Map
+
+> A modern fashion and general products store with a bold black aesthetic. The brand aims for a cutting-edge, innovative visual identity with dynamic motion animations on entry and exit. The overall vibe is sleek, contemporary, and high-impact — designed to impress visitors from the first second with cinematic transitions and a dark, stylish atmosphere.
+
+---
+
+## Pages
+
+### בית
+https://-bb28a647.zappy5.app
+ברוכים הבאים לעולם אופנה נועז עם אסתטיקה שחורה וחזות קולנועית. רכשו מותגי אופנה מובילים אונליין במחירים משתלמים וגלו חוויית קנייה דינמית ועוצרת נשימה.
+
+### הסיפור שלנו
+https://-bb28a647.zappy5.app/brand-story
+צללו לסיפור של מותג האופנה הקמעונאי ששובר מוסכמות עם אסתטיקה שחורה וחדשנות ויזואלית. הכירו את התשוקה, החזון והמחויבות לסטייל מושלם במחיר משתלם.
+
+### לוקבוק
+https://-bb28a647.zappy5.app/lookbook
+דפדפו בלוקבוק הדינמי שלנו וגלו שילובי לבוש נועזים בהשראת אסתטיקה שחורה עכשווית. צפו במעברים קולנועיים שיציתו את הדמיון וישדרגו כל הופעה.
+
+### שאלות נפוצות
+https://-bb28a647.zappy5.app/faq
+יש לכם שאלות על רכישה אונליין, מידות או משלוחים? קבלו תשובות מהירות וברורות שיהפכו את חוויית הקנייה שלכם לחלקה ומהנה. סטייל מושלם מתחיל כאן.
+
+### צור קשר
+https://-bb28a647.zappy5.app/contact
+רוצים לשתף פעולה או סתם להגיד שלום? צרו קשר עם הצוות שמאחורי מותג האופנה הקמעונאי החדשני. נשמח לשמוע מכם ולהפוך כל רעיון לסטייל מושלם.
+
+### Products
+https://-bb28a647.zappy5.app/products
+המוצרים שלנו - המשוגע הגיע
+
+### Cart
+https://-bb28a647.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-bb28a647.zappy5.app/checkout
+תשלום
+
+### Login
+https://-bb28a647.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-bb28a647.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-bb28a647.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-bb28a647.zappy5.app/product/:slug
+פרטי המוצר - המשוגע הגיע
+
+### Category
+https://-bb28a647.zappy5.app/category/:slug
+מוצרים - המשוגע הגיע
+
+### תודה - המשוגע הגיע
+https://-bb28a647.zappy5.app/thank-you
+המשוגע הגיע - תודה - המשוגע הגיע
+
+## Legal & Policy
+
+### Privacy Policy
+https://-bb28a647.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-bb28a647.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-bb28a647.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About המשוגע הגיע
+A modern fashion and general products store with a bold black aesthetic. The brand aims for a cutting-edge, innovative visual identity with dynamic motion animations on entry and exit. The overall vibe is sleek, contemporary, and high-impact — designed to impress visitors from the first second with cinematic transitions and a dark, stylish atmosphere.
+
+## Target Audience
+- חובבי אופנה צעירים
+- רוכשים מחפשי מציאות
+- צרכנים ידידותיים לסביבה
+- קונים באינטרנט
+- הורים המחפשים בגדי ילדים
+
+## Industry
+Fashion & Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-bb28a647.zappy5.app/sitemap.xml
+- Robots: https://-bb28a647.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-bb28a647.zappy5.app/llms-full.txt
+- Products (JSON): https://-bb28a647.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-bb28a647.zappy5.app/product-feed.xml
