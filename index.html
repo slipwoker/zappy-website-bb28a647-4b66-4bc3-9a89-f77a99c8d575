@@ -780,13 +780,13 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "bb28a647-4b66-4bc3-9a89-f77a99c8d575";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "bb28a647-4b66-4bc3-9a89-f77a99c8d575";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -1293,10 +1293,10 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-type="fullscreen-scrim" id="index-hero-section">
   <!-- Background Image -->
   <div class="hero-bg-wrapper">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Dark fashion photography with a model in avant-garde black clothing under hard studio lighting, reflective graphite floor, subtle cyan rim light, and a small magenta glow accent, cinematic noir atmosphere" width="1200" height="600" src="/assets/site-image-index-hero-image-1.webp" alt="דוגמנית באווירת אופנה קולנועית" class="hero-bg-img" decoding="async" />
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Dark fashion photography with a model in avant-garde black clothing under hard studio lighting, reflective graphite floor, subtle cyan rim light, and a small magenta glow accent, cinematic noir atmosphere" width="1200" height="600" src="/assets/site-image-index-hero-image-1.webp" alt="דוגמנית באווירת אופנה קולנועית" class="hero-bg-img" data-hero-background="true" data-element-type="image" data-element-id="img-1784842909512-iii9l1lop" decoding="async" />
   </div>
 
   <!-- Scrim Overlay -->
@@ -1320,8 +1320,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
   <div class="hero-overlay-group">
     <div class="hero-text-container">
       <h1 class="hero-headline">הטירוף מתחיל עכשיו</h1>
-      <h3 class="hero-subtitle">קולקציית אופנה חדשה, ילדים, לייפסטייל ומציאות בלתי צפויות — במקום אחד חצוף</h3>
-      <p class="hero-description">סטייל בועט, מחירים שלא מאמינים, והפתעות טריות שמגיעות כל שבוע. תנו לטירוף להיכנס.</p>
+      <h3 class="hero-subtitle" style>קולקציית אופנה חדשה, גברים,ילדים, נשים לייפסטייל ומציאות בלתי צפויות — במקום אחד חצוף</h3>
+      <p class="hero-description" style>סטייל בועט, מחירים שלא מאמינים, והפתעות טריות שמגיעות כל שבוע. תנו לטירוף להיכנס.</p>
       <div class="hero-cta-group">
         <a href="/store" class="hero-cta-primary">לחנות הדינמית</a>
         <a href="/contact" class="hero-cta-secondary">צור קשר</a>
