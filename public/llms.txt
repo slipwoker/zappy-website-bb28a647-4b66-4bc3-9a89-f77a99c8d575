@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-bb28a647.zappy5.app
+https://example.com
 ברוכים הבאים לעולם אופנה נועז עם אסתטיקה שחורה וחזות קולנועית. רכשו מותגי אופנה מובילים אונליין במחירים משתלמים וגלו חוויית קנייה דינמית ועוצרת נשימה.
 
 ### הסיפור שלנו
-https://-bb28a647.zappy5.app/brand-story
+https://example.com/brand-story
 צללו לסיפור של מותג האופנה הקמעונאי ששובר מוסכמות עם אסתטיקה שחורה וחדשנות ויזואלית. הכירו את התשוקה, החזון והמחויבות לסטייל מושלם במחיר משתלם.
 
 ### לוקבוק
-https://-bb28a647.zappy5.app/lookbook
+https://example.com/lookbook
 דפדפו בלוקבוק הדינמי שלנו וגלו שילובי לבוש נועזים בהשראת אסתטיקה שחורה עכשווית. צפו במעברים קולנועיים שיציתו את הדמיון וישדרגו כל הופעה.
 
 ### שאלות נפוצות
-https://-bb28a647.zappy5.app/faq
+https://example.com/faq
 יש לכם שאלות על רכישה אונליין, מידות או משלוחים? קבלו תשובות מהירות וברורות שיהפכו את חוויית הקנייה שלכם לחלקה ומהנה. סטייל מושלם מתחיל כאן.
 
 ### צור קשר
-https://-bb28a647.zappy5.app/contact
+https://example.com/contact
 רוצים לשתף פעולה או סתם להגיד שלום? צרו קשר עם הצוות שמאחורי מותג האופנה הקמעונאי החדשני. נשמח לשמוע מכם ולהפוך כל רעיון לסטייל מושלם.
 
 ### Products
-https://-bb28a647.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - המשוגע הגיע
 
 ### Cart
-https://-bb28a647.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-bb28a647.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-bb28a647.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-bb28a647.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-bb28a647.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-bb28a647.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - המשוגע הגיע
 
 ### Category
-https://-bb28a647.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - המשוגע הגיע
 
 ### תודה - המשוגע הגיע
-https://-bb28a647.zappy5.app/thank-you
+https://example.com/thank-you
 המשוגע הגיע - תודה - המשוגע הגיע
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-bb28a647.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-bb28a647.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-bb28a647.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -103,8 +103,8 @@ Fashion & Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-bb28a647.zappy5.app/sitemap.xml
-- Robots: https://-bb28a647.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-bb28a647.zappy5.app/llms-full.txt
-- Products (JSON): https://-bb28a647.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-bb28a647.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
